@@ -1,0 +1,6 @@
+.venv/
+.kiro/
+archive/
+outputs/
+__pycache__/
+*.pyc
