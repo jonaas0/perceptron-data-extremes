@@ -2,5 +2,6 @@
 .kiro/
 archive/
 outputs/
+!outputs/full_experiment_20250817_210431/
 __pycache__/
 *.pyc
