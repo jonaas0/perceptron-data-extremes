@@ -9,7 +9,7 @@ This repository contains a small experiment on the relation of data and weights.
 - **Extreme value proportions**: 0%, 25%, 50%, 75%, 100%
 - **Extreme value definition**: Values smaller then 20% or bigger then 180% of the mean 
 
-Under outputs theres a folder containing the results of the current iteration of the experiment. Depending on your machine running this yourself may take 5-30 Minutes.
+Under outputs theres a folder containing the results of the current iteration of the experiment. Depending on your machine running this yourself may take 5-30 Minutes. If you plan on running the experiment, you may create a virtual environment for the necessary dependencies. They are listed in the requirements.txt.
 
 ### Main Experiment
 ```bash
