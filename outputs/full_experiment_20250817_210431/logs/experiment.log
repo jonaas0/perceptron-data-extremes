@@ -1,0 +1,342 @@
+2025-08-17 21:04:31,216 - __main__ - INFO - Created experiment directory: outputs\full_experiment_20250817_210431
+2025-08-17 21:04:31,217 - __main__ - INFO - Starting Perceptron Extreme Values Experiment
+2025-08-17 21:04:31,218 - __main__ - INFO - Output directory: outputs\full_experiment_20250817_210431
+2025-08-17 21:04:31,219 - __main__ - INFO - Configuration: 5 sizes × 5 ratios × 10 repetitions = 250 total experiments
+2025-08-17 21:04:31,219 - experiment.components.experiment_runner - INFO - ExperimentRunner initialized for 250 total experiments
+2025-08-17 21:04:31,220 - experiment.components.experiment_runner - INFO - Starting complete experimental run
+2025-08-17 21:04:34,428 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_00_01: converged
+2025-08-17 21:04:37,440 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_00_02: converged
+2025-08-17 21:04:40,444 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_00_03: converged
+2025-08-17 21:04:43,463 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_00_04: converged
+2025-08-17 21:04:46,565 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_00_05: converged
+2025-08-17 21:04:49,490 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_00_06: converged
+2025-08-17 21:04:52,633 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_00_07: converged
+2025-08-17 21:04:55,611 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_00_08: converged
+2025-08-17 21:04:58,581 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_00_09: converged
+2025-08-17 21:05:01,576 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_00_10: converged
+2025-08-17 21:05:04,618 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_25_01: converged
+2025-08-17 21:05:07,647 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_25_02: converged
+2025-08-17 21:05:10,742 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_25_03: converged
+2025-08-17 21:05:13,730 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_25_04: converged
+2025-08-17 21:05:16,705 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_25_05: converged
+2025-08-17 21:05:19,799 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_25_06: converged
+2025-08-17 21:05:22,858 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_25_07: converged
+2025-08-17 21:05:25,870 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_25_08: converged
+2025-08-17 21:05:28,883 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_25_09: converged
+2025-08-17 21:05:31,763 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_25_10: converged
+2025-08-17 21:05:34,735 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_50_01: converged
+2025-08-17 21:05:37,692 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_50_02: converged
+2025-08-17 21:05:40,706 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_50_03: converged
+2025-08-17 21:05:43,776 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_50_04: converged
+2025-08-17 21:05:46,629 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_50_05: converged
+2025-08-17 21:05:49,677 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_50_06: converged
+2025-08-17 21:05:52,736 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_50_07: converged
+2025-08-17 21:05:55,717 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_50_08: converged
+2025-08-17 21:05:58,721 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_50_09: converged
+2025-08-17 21:06:01,705 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_50_10: converged
+2025-08-17 21:06:04,626 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_75_01: converged
+2025-08-17 21:06:07,635 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_75_02: converged
+2025-08-17 21:06:07,638 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.400 != expected 0.750
+2025-08-17 21:06:07,638 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.300 != expected 0.750
+2025-08-17 21:06:07,639 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 3 failed validation: Extreme ratio 0.300 != expected 0.750
+2025-08-17 21:06:07,639 - experiment.components.dataset_generator - WARNING - Using best available dataset (score: 1/2)
+2025-08-17 21:06:10,576 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_75_03: converged
+2025-08-17 21:06:10,578 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.300 != expected 0.750
+2025-08-17 21:06:10,579 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.300 != expected 0.750
+2025-08-17 21:06:13,719 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_75_04: converged
+2025-08-17 21:06:13,722 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.400 != expected 0.750
+2025-08-17 21:06:13,723 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.400 != expected 0.750
+2025-08-17 21:06:13,724 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 3 failed validation: Extreme ratio 0.300 != expected 0.750
+2025-08-17 21:06:13,724 - experiment.components.dataset_generator - WARNING - Using best available dataset (score: 1/2)
+2025-08-17 21:06:17,002 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_75_05: converged
+2025-08-17 21:06:19,849 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_75_06: converged
+2025-08-17 21:06:22,833 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_75_07: converged
+2025-08-17 21:06:22,836 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.300 != expected 0.750
+2025-08-17 21:06:25,758 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_75_08: converged
+2025-08-17 21:06:25,761 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.300 != expected 0.750
+2025-08-17 21:06:25,762 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.300 != expected 0.750
+2025-08-17 21:06:25,763 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 3 failed validation: Extreme ratio 0.300 != expected 0.750
+2025-08-17 21:06:25,764 - experiment.components.dataset_generator - WARNING - Using best available dataset (score: 1/2)
+2025-08-17 21:06:28,632 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_75_09: converged
+2025-08-17 21:06:28,635 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.300 != expected 0.750
+2025-08-17 21:06:28,636 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.400 != expected 0.750
+2025-08-17 21:06:28,636 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 3 failed validation: Extreme ratio 0.300 != expected 0.750
+2025-08-17 21:06:28,636 - experiment.components.dataset_generator - WARNING - Using best available dataset (score: 1/2)
+2025-08-17 21:06:31,620 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_75_10: converged
+2025-08-17 21:06:34,607 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_100_01: converged
+2025-08-17 21:06:37,630 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_100_02: converged
+2025-08-17 21:06:40,489 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_100_03: converged
+2025-08-17 21:06:43,592 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_100_04: converged
+2025-08-17 21:06:46,465 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_100_05: converged
+2025-08-17 21:06:49,437 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_100_06: converged
+2025-08-17 21:06:52,454 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_100_07: converged
+2025-08-17 21:06:55,376 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_100_08: converged
+2025-08-17 21:06:58,420 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_100_09: converged
+2025-08-17 21:07:01,374 - experiment.components.perceptron_trainer - INFO - Training completed for exp_10_100_10: converged
+2025-08-17 21:07:04,390 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_00_01: converged
+2025-08-17 21:07:07,483 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_00_02: converged
+2025-08-17 21:07:10,680 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_00_03: converged
+2025-08-17 21:07:13,824 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_00_04: converged
+2025-08-17 21:07:16,944 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_00_05: converged
+2025-08-17 21:07:20,029 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_00_06: converged
+2025-08-17 21:07:23,187 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_00_07: converged
+2025-08-17 21:07:26,228 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_00_08: converged
+2025-08-17 21:07:29,213 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_00_09: converged
+2025-08-17 21:07:32,279 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_00_10: converged
+2025-08-17 21:07:35,413 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_25_01: converged
+2025-08-17 21:07:38,883 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_25_02: converged
+2025-08-17 21:07:42,085 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_25_03: converged
+2025-08-17 21:07:45,113 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_25_04: converged
+2025-08-17 21:07:48,077 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_25_05: converged
+2025-08-17 21:07:51,362 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_25_06: converged
+2025-08-17 21:07:54,537 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_25_07: converged
+2025-08-17 21:07:54,540 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.160 != expected 0.250
+2025-08-17 21:07:57,580 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_25_08: converged
+2025-08-17 21:08:00,545 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_25_09: converged
+2025-08-17 21:08:03,771 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_25_10: converged
+2025-08-17 21:08:03,775 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.340 != expected 0.500
+2025-08-17 21:08:06,855 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_50_01: converged
+2025-08-17 21:08:06,857 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.360 != expected 0.500
+2025-08-17 21:08:06,857 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.420 != expected 0.500
+2025-08-17 21:08:06,859 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 3 failed validation: Extreme ratio 0.340 != expected 0.500
+2025-08-17 21:08:06,859 - experiment.components.dataset_generator - WARNING - Using best available dataset (score: 1/2)
+2025-08-17 21:08:09,926 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_50_02: converged
+2025-08-17 21:08:09,929 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.300 != expected 0.500
+2025-08-17 21:08:13,018 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_50_03: converged
+2025-08-17 21:08:13,022 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.360 != expected 0.500
+2025-08-17 21:08:13,022 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.400 != expected 0.500
+2025-08-17 21:08:16,205 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_50_04: converged
+2025-08-17 21:08:16,210 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.360 != expected 0.500
+2025-08-17 21:08:19,219 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_50_05: converged
+2025-08-17 21:08:22,198 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_50_06: converged
+2025-08-17 21:08:25,241 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_50_07: converged
+2025-08-17 21:08:25,244 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.320 != expected 0.500
+2025-08-17 21:08:28,370 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_50_08: converged
+2025-08-17 21:08:28,373 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.380 != expected 0.500
+2025-08-17 21:08:28,374 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.420 != expected 0.500
+2025-08-17 21:08:31,369 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_50_09: converged
+2025-08-17 21:08:31,373 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.380 != expected 0.500
+2025-08-17 21:08:34,529 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_50_10: converged
+2025-08-17 21:08:34,532 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.460 != expected 0.750
+2025-08-17 21:08:34,533 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.640 != expected 0.750
+2025-08-17 21:08:37,550 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_75_01: converged
+2025-08-17 21:08:40,747 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_75_02: converged
+2025-08-17 21:08:43,716 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_75_03: converged
+2025-08-17 21:08:46,739 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_75_04: converged
+2025-08-17 21:08:49,830 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_75_05: converged
+2025-08-17 21:08:49,839 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.500 != expected 0.750
+2025-08-17 21:08:49,840 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.640 != expected 0.750
+2025-08-17 21:08:49,842 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 3 failed validation: Extreme ratio 0.680 != expected 0.750
+2025-08-17 21:08:49,843 - experiment.components.dataset_generator - WARNING - Using best available dataset (score: 1/2)
+2025-08-17 21:08:52,834 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_75_06: converged
+2025-08-17 21:08:52,837 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.640 != expected 0.750
+2025-08-17 21:08:55,852 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_75_07: converged
+2025-08-17 21:08:55,855 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.640 != expected 0.750
+2025-08-17 21:08:55,855 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.580 != expected 0.750
+2025-08-17 21:08:58,864 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_75_08: converged
+2025-08-17 21:08:58,867 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.640 != expected 0.750
+2025-08-17 21:09:01,872 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_75_09: converged
+2025-08-17 21:09:01,876 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.580 != expected 0.750
+2025-08-17 21:09:04,946 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_75_10: converged
+2025-08-17 21:09:07,960 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_100_01: converged
+2025-08-17 21:09:10,988 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_100_02: converged
+2025-08-17 21:09:14,105 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_100_03: converged
+2025-08-17 21:09:17,392 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_100_04: converged
+2025-08-17 21:09:17,394 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.920 != expected 1.000
+2025-08-17 21:09:20,426 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_100_05: converged
+2025-08-17 21:09:20,429 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.940 != expected 1.000
+2025-08-17 21:09:20,429 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.940 != expected 1.000
+2025-08-17 21:09:23,583 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_100_06: converged
+2025-08-17 21:09:26,678 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_100_07: converged
+2025-08-17 21:09:29,697 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_100_08: converged
+2025-08-17 21:09:32,807 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_100_09: converged
+2025-08-17 21:09:32,810 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.940 != expected 1.000
+2025-08-17 21:09:32,811 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.940 != expected 1.000
+2025-08-17 21:09:35,945 - experiment.components.perceptron_trainer - INFO - Training completed for exp_50_100_10: converged
+2025-08-17 21:09:39,233 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_00_01: converged
+2025-08-17 21:09:42,649 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_00_02: converged
+2025-08-17 21:09:45,783 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_00_03: converged
+2025-08-17 21:09:49,281 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_00_04: converged
+2025-08-17 21:09:52,609 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_00_05: converged
+2025-08-17 21:09:55,953 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_00_06: converged
+2025-08-17 21:09:59,222 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_00_07: converged
+2025-08-17 21:10:02,479 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_00_08: converged
+2025-08-17 21:10:05,610 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_00_09: converged
+2025-08-17 21:10:08,872 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_00_10: converged
+2025-08-17 21:10:08,875 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.180 != expected 0.250
+2025-08-17 21:10:12,070 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_25_01: converged
+2025-08-17 21:10:15,236 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_25_02: converged
+2025-08-17 21:10:18,393 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_25_03: converged
+2025-08-17 21:10:21,804 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_25_04: converged
+2025-08-17 21:10:25,303 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_25_05: converged
+2025-08-17 21:10:28,655 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_25_06: converged
+2025-08-17 21:10:31,902 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_25_07: converged
+2025-08-17 21:10:35,173 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_25_08: converged
+2025-08-17 21:10:38,448 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_25_09: converged
+2025-08-17 21:10:41,639 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_25_10: converged
+2025-08-17 21:10:44,896 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_50_01: converged
+2025-08-17 21:10:47,974 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_50_02: converged
+2025-08-17 21:10:51,123 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_50_03: converged
+2025-08-17 21:10:54,453 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_50_04: converged
+2025-08-17 21:10:54,456 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.260 != expected 0.500
+2025-08-17 21:10:54,457 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.420 != expected 0.500
+2025-08-17 21:10:57,690 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_50_05: converged
+2025-08-17 21:11:01,004 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_50_06: converged
+2025-08-17 21:11:04,331 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_50_07: converged
+2025-08-17 21:11:07,496 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_50_08: converged
+2025-08-17 21:11:10,732 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_50_09: converged
+2025-08-17 21:11:10,735 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.370 != expected 0.500
+2025-08-17 21:11:10,736 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.430 != expected 0.500
+2025-08-17 21:11:14,315 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_50_10: converged
+2025-08-17 21:11:17,552 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_75_01: converged
+2025-08-17 21:11:20,710 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_75_02: converged
+2025-08-17 21:11:20,713 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.680 != expected 0.750
+2025-08-17 21:11:20,713 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.700 != expected 0.750
+2025-08-17 21:11:20,714 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 3 failed validation: Extreme ratio 0.620 != expected 0.750
+2025-08-17 21:11:20,715 - experiment.components.dataset_generator - WARNING - Using best available dataset (score: 1/2)
+2025-08-17 21:11:23,940 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_75_03: converged
+2025-08-17 21:11:27,220 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_75_04: converged
+2025-08-17 21:11:27,223 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.600 != expected 0.750
+2025-08-17 21:11:27,223 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 2 failed validation: Extreme ratio 0.680 != expected 0.750
+2025-08-17 21:11:30,541 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_75_05: converged
+2025-08-17 21:11:30,545 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.640 != expected 0.750
+2025-08-17 21:11:33,661 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_75_06: converged
+2025-08-17 21:11:36,780 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_75_07: converged
+2025-08-17 21:11:39,920 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_75_08: converged
+2025-08-17 21:11:39,922 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.670 != expected 0.750
+2025-08-17 21:11:43,122 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_75_09: converged
+2025-08-17 21:11:46,326 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_75_10: converged
+2025-08-17 21:11:49,391 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_100_01: converged
+2025-08-17 21:11:52,633 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_100_02: converged
+2025-08-17 21:11:55,696 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_100_03: converged
+2025-08-17 21:11:58,923 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_100_04: converged
+2025-08-17 21:12:02,228 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_100_05: converged
+2025-08-17 21:12:05,388 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_100_06: converged
+2025-08-17 21:12:08,731 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_100_07: converged
+2025-08-17 21:12:12,293 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_100_08: converged
+2025-08-17 21:12:16,019 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_100_09: converged
+2025-08-17 21:12:19,443 - experiment.components.perceptron_trainer - INFO - Training completed for exp_100_100_10: converged
+2025-08-17 21:12:23,506 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_00_01: converged
+2025-08-17 21:12:27,486 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_00_02: converged
+2025-08-17 21:12:31,404 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_00_03: converged
+2025-08-17 21:12:35,496 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_00_04: converged
+2025-08-17 21:12:39,360 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_00_05: converged
+2025-08-17 21:12:43,394 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_00_06: converged
+2025-08-17 21:12:47,293 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_00_07: converged
+2025-08-17 21:12:51,243 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_00_08: converged
+2025-08-17 21:12:55,196 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_00_09: converged
+2025-08-17 21:12:59,230 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_00_10: converged
+2025-08-17 21:13:03,276 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_25_01: converged
+2025-08-17 21:13:07,278 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_25_02: converged
+2025-08-17 21:13:11,174 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_25_03: converged
+2025-08-17 21:13:15,252 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_25_04: converged
+2025-08-17 21:13:19,142 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_25_05: converged
+2025-08-17 21:13:23,150 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_25_06: converged
+2025-08-17 21:13:27,155 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_25_07: converged
+2025-08-17 21:13:31,143 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_25_08: converged
+2025-08-17 21:13:35,026 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_25_09: converged
+2025-08-17 21:13:38,987 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_25_10: converged
+2025-08-17 21:13:42,955 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_50_01: converged
+2025-08-17 21:13:46,863 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_50_02: converged
+2025-08-17 21:13:51,086 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_50_03: converged
+2025-08-17 21:13:51,090 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.444 != expected 0.500
+2025-08-17 21:13:54,958 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_50_04: converged
+2025-08-17 21:13:58,912 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_50_05: converged
+2025-08-17 21:14:02,988 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_50_06: converged
+2025-08-17 21:14:06,908 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_50_07: converged
+2025-08-17 21:14:10,873 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_50_08: converged
+2025-08-17 21:14:14,855 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_50_09: converged
+2025-08-17 21:14:18,844 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_50_10: converged
+2025-08-17 21:14:22,871 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_75_01: converged
+2025-08-17 21:14:26,790 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_75_02: converged
+2025-08-17 21:14:26,793 - experiment.components.dataset_generator - WARNING - Dataset generation attempt 1 failed validation: Extreme ratio 0.694 != expected 0.750
+2025-08-17 21:14:30,666 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_75_03: converged
+2025-08-17 21:14:34,585 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_75_04: converged
+2025-08-17 21:14:38,501 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_75_05: converged
+2025-08-17 21:14:42,376 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_75_06: converged
+2025-08-17 21:14:46,113 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_75_07: converged
+2025-08-17 21:14:49,944 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_75_08: converged
+2025-08-17 21:14:53,823 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_75_09: converged
+2025-08-17 21:14:57,777 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_75_10: converged
+2025-08-17 21:15:01,736 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_100_01: converged
+2025-08-17 21:15:05,501 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_100_02: converged
+2025-08-17 21:15:09,287 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_100_03: converged
+2025-08-17 21:15:13,207 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_100_04: converged
+2025-08-17 21:15:17,166 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_100_05: converged
+2025-08-17 21:15:21,043 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_100_06: converged
+2025-08-17 21:15:24,834 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_100_07: converged
+2025-08-17 21:15:28,780 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_100_08: converged
+2025-08-17 21:15:32,643 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_100_09: converged
+2025-08-17 21:15:36,481 - experiment.components.perceptron_trainer - INFO - Training completed for exp_500_100_10: converged
+2025-08-17 21:15:41,801 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_00_01: converged
+2025-08-17 21:15:46,928 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_00_02: converged
+2025-08-17 21:15:52,336 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_00_03: converged
+2025-08-17 21:15:57,405 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_00_04: converged
+2025-08-17 21:16:03,181 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_00_05: converged
+2025-08-17 21:16:08,409 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_00_06: converged
+2025-08-17 21:16:13,455 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_00_07: converged
+2025-08-17 21:16:18,825 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_00_08: converged
+2025-08-17 21:16:24,116 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_00_09: converged
+2025-08-17 21:16:29,321 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_00_10: converged
+2025-08-17 21:16:34,332 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_25_01: converged
+2025-08-17 21:16:39,531 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_25_02: converged
+2025-08-17 21:16:44,526 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_25_03: converged
+2025-08-17 21:16:49,578 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_25_04: converged
+2025-08-17 21:16:54,634 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_25_05: converged
+2025-08-17 21:16:59,589 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_25_06: converged
+2025-08-17 21:17:04,791 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_25_07: converged
+2025-08-17 21:17:10,022 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_25_08: converged
+2025-08-17 21:17:15,039 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_25_09: converged
+2025-08-17 21:17:20,414 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_25_10: converged
+2025-08-17 21:17:25,464 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_50_01: converged
+2025-08-17 21:17:30,597 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_50_02: converged
+2025-08-17 21:17:35,479 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_50_03: converged
+2025-08-17 21:17:41,010 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_50_04: converged
+2025-08-17 21:17:46,042 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_50_05: converged
+2025-08-17 21:17:51,298 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_50_06: converged
+2025-08-17 21:17:56,248 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_50_07: converged
+2025-08-17 21:18:01,379 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_50_08: converged
+2025-08-17 21:18:06,376 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_50_09: converged
+2025-08-17 21:18:11,544 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_50_10: converged
+2025-08-17 21:18:16,624 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_75_01: converged
+2025-08-17 21:18:21,804 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_75_02: converged
+2025-08-17 21:18:26,952 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_75_03: converged
+2025-08-17 21:18:31,938 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_75_04: converged
+2025-08-17 21:18:37,225 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_75_05: converged
+2025-08-17 21:18:42,477 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_75_06: converged
+2025-08-17 21:18:47,986 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_75_07: converged
+2025-08-17 21:18:53,253 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_75_08: converged
+2025-08-17 21:18:58,577 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_75_09: converged
+2025-08-17 21:19:03,670 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_75_10: converged
+2025-08-17 21:19:08,951 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_100_01: converged
+2025-08-17 21:19:14,112 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_100_02: converged
+2025-08-17 21:19:19,064 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_100_03: converged
+2025-08-17 21:19:24,178 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_100_04: converged
+2025-08-17 21:19:29,217 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_100_05: converged
+2025-08-17 21:19:34,306 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_100_06: converged
+2025-08-17 21:19:39,345 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_100_07: converged
+2025-08-17 21:19:44,279 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_100_08: converged
+2025-08-17 21:19:49,097 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_100_09: converged
+2025-08-17 21:19:54,531 - experiment.components.perceptron_trainer - INFO - Training completed for exp_1000_100_10: converged
+2025-08-17 21:19:54,532 - experiment.components.experiment_runner - INFO - Experimental run completed: 250/250 successful
+2025-08-17 21:19:54,533 - experiment.components.experiment_runner - INFO - Total time: 923.31 seconds (15.4 minutes)
+2025-08-17 21:19:54,533 - __main__ - INFO - Experiment completed!
+2025-08-17 21:19:54,533 - __main__ - INFO - Total time: 923.31 seconds (15.4 minutes)
+2025-08-17 21:19:54,533 - __main__ - INFO - Success rate: 100.0%
+2025-08-17 21:19:54,533 - __main__ - INFO - Failed experiments: 0
+2025-08-17 21:19:54,550 - experiment.components.results_collector - INFO - Exported 250 results to outputs\full_experiment_20250817_210431\data\experiment_results.csv
+2025-08-17 21:19:54,551 - experiment.components.experiment_runner - INFO - Results exported to outputs\full_experiment_20250817_210431\data\experiment_results.csv
+2025-08-17 21:19:54,551 - __main__ - INFO - Raw results exported to: outputs\full_experiment_20250817_210431\data\experiment_results.csv
+2025-08-17 21:19:54,552 - __main__ - INFO - Generating analysis and visualizations...
+2025-08-17 21:19:54,555 - experiment.components.analysis_engine - INFO - AnalysisEngine initialized with 250 results
+2025-08-17 21:19:56,581 - experiment.components.analysis_engine - INFO - Generated 2 weight distribution plots
+2025-08-17 21:19:58,634 - experiment.components.analysis_engine - INFO - Generated 2 bias distribution plots
+2025-08-17 21:20:00,379 - experiment.components.analysis_engine - INFO - Generated 2 summary graphs
+2025-08-17 21:20:00,396 - experiment.components.analysis_engine - INFO - Generated statistical comparisons for extreme value effects
+2025-08-17 21:20:00,406 - experiment.components.analysis_engine - INFO - Generated dataset size trend analysis
+2025-08-17 21:20:00,411 - experiment.components.analysis_engine - INFO - Generated comprehensive analysis report: outputs\full_experiment_20250817_210431\plots\experiment_analysis_report.md
+2025-08-17 21:20:00,413 - __main__ - INFO - Analysis report generated: outputs\full_experiment_20250817_210431\reports\experiment_analysis_report.md
+2025-08-17 21:20:00,429 - experiment.components.analysis_engine - INFO - Exported analysis data: outputs\full_experiment_20250817_210431\plots\analysis_data.csv
+2025-08-17 21:20:00,430 - __main__ - INFO - Analysis data exported: outputs\full_experiment_20250817_210431\data\analysis_data.csv
+2025-08-17 21:20:00,433 - __main__ - INFO - Experiment summary saved to: outputs\full_experiment_20250817_210431\experiment_summary.txt
+2025-08-17 21:20:00,433 - __main__ - INFO - Experiment and analysis completed successfully!
